@@ -1,0 +1,27 @@
+.titulo_principal {
+    margin-bottom: 20px;
+  }
+  
+  .titulo_principal h2 {
+    font-size: 24px;
+    margin-bottom: 16px;
+    text-align: center;
+  }
+  
+  .titulo_principal ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-between; 
+  }
+  
+  .titulo_principal li {
+    flex-basis: calc(33.33% - 20px); 
+    margin-bottom: 20px; 
+    padding: 8px;
+    border-bottom: 1px solid #eee;
+    box-sizing: border-box;
+  }
+
+  

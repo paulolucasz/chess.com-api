@@ -1,0 +1,20 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+ 
+  .principal_titulos {
+    background-color: rgb(44, 96, 126);
+    padding: 10px; 
+  }
+  
+  
+  .principal_titulos h1 {
+    color: white;
+    margin-bottom: 16px;
+    text-align: center;
+  }
+  
